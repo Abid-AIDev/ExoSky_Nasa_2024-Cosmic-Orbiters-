@@ -22,5 +22,5 @@ ExoSky is a research-oriented application designed for astronomers and enthusias
 
 ### AI Features
 
-To utilize the AI features in this project, you must install Llama3.1. Please follow the installation instructions provided in the [Llama3.1 documentation](link_to_documentation) to set it up correctly.
+To utilize the AI features in this project, you must install Llama3.1. Please follow the installation instructions provided in the Llama3.1 documentation to set it up correctly.
 
