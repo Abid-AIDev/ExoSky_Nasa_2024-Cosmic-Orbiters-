@@ -20,3 +20,7 @@ ExoSky is a research-oriented application designed for astronomers and enthusias
 - **Graphical Visualization:** Displays graphical representations for better understanding.
 - **Public Outreach:** Engages the public in astronomy and exoplanet research.
 
+### AI Features
+
+To utilize the AI features in this project, you must install Llama3.1. Please follow the installation instructions provided in the [Llama3.1 documentation](link_to_documentation) to set it up correctly.
+
