@@ -1,26 +1,72 @@
-# ExoSky Project
+Here’s an enhanced version of your GitHub README file, including the necessary requirements to run your program:
 
-## Overview
+ExoSky: Explore the Universe in 3D
 
-ExoSky is a research-oriented application designed for astronomers and enthusiasts to explore exoplanets and celestial data. Utilizing the Gaia dataset, ExoSky presents a 3D star map that enhances the understanding of our universe. The application features a local AI assistant named **Aurora**, which supports research and computation by providing insights and sample graphs.
+ExoSky is a research-driven application designed to visualize exoplanets and celestial data using the Gaia dataset. It provides a dynamic 3D star map and offers a local AI assistant called Aurora, which aids in research and data analysis. This project was developed as part of the NASA Space Apps Challenge 2024 by the Cosmic Orbiters team.
 
-## Key Features
+Key Features
 
-- **3D Star Map:** Visualize stars and exoplanets in a dynamic 3D environment sourced from the Gaia dataset.
-- **Local AI Assistant (Aurora):** Assists users with research tasks and computations, delivering intelligent insights and suggestions.
-- **Sample Graphs:** Provides graphical representations of data from the Gaia dataset, enhancing comprehension of astronomical phenomena.
-- **Customization Options:** Tailor the 3D star map's appearance, allowing users to color stars by name and brightness.
-- **Interactive Interface:** Engage with the star map to explore celestial data interactively.
+	•	3D Star Map: Visualize stars and exoplanets in a rich 3D environment, sourced directly from the Gaia dataset.
+	•	Local AI Assistant - Aurora: This AI assists with research tasks, generating intelligent insights and sample graphs from the dataset.
+	•	Sample Graphs: The app generates graphs and visualizations to help users understand and interpret astronomical data.
+	•	Customization: Users can color stars by name or brightness and adjust the visual representation of the map.
+	•	Interactive Interface: Navigate the star map and interact with data in real time.
 
-## Applications
+Applications
 
-- **Astronomy Research:** A tool for analyzing and visualizing astronomical data.
-- **Educational Resource:** Aids in learning about astronomy concepts and the Gaia dataset.
-- **Data Analysis:** Facilitates the interpretation of complex astronomical data.
-- **Graphical Visualization:** Displays graphical representations for better understanding.
-- **Public Outreach:** Engages the public in astronomy and exoplanet research.
+	•	Astronomy Research: A tool for astronomers to visualize and analyze celestial data.
+	•	Educational Resource: Perfect for students or enthusiasts learning about exoplanets and stars.
+	•	Data Analysis: Helps make sense of complex datasets using graphical representations.
+	•	Public Outreach: A visually engaging tool to connect the public with space exploration and research.
 
-### AI Features
+AI Features
 
-To utilize the AI features in this project, you must install Llama3.1. Please follow the installation instructions provided in the Llama3.1 documentation to set it up correctly.
+To use the AI assistant Aurora, Llama3.1 must be installed. Follow the installation guide from the Llama3.1 documentation to integrate AI features correctly into your system.
 
+Requirements
+
+To run the ExoSky project successfully, ensure that the following dependencies are installed:
+
+Main Requirements
+
+	1.	Python 3.10+
+	2.	customtkinter (for the GUI interface)
+	3.	matplotlib (for graph generation)
+	4.	numpy (for handling data arrays)
+	5.	pandas (for data manipulation and reading CSV files)
+	6.	Gaia Dataset (publicly available for star and exoplanet data)
+	7.	Llama3.1 (for AI-driven research assistance and insight generation)
+
+Installation Steps
+
+	1.	Clone the repository from GitHub:
+
+git clone https://github.com/Abid-AIDev/ExoSky_Nasa_2024-Cosmic-Orbiters-
+
+
+	2.	Navigate to the project directory:
+
+cd ExoSky_Nasa_2024-Cosmic-Orbiters-
+
+
+	3.	Install the necessary Python dependencies using the following command:
+
+pip install -r requirements.txt
+
+
+	4.	To use the AI features, follow the Llama3.1 installation instructions provided in the Llama3.1 documentation.
+
+Running the Project
+
+Once all dependencies are installed, run the project using Python:
+
+exosky.py
+
+Contribution Guidelines
+
+Feel free to contribute to the project! Whether you want to improve the visualization, extend AI functionality, or refine data handling, contributions are welcome.
+
+
+Contact
+
+For any queries, reach out to the Cosmic Orbiters team or check out the project’s GitHub repository.
