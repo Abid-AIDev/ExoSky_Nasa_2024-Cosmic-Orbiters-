@@ -1,4 +1,4 @@
-Here’s an enhanced version of your GitHub README file, including the necessary requirements to run your program:
+
 
 ExoSky: Explore the Universe in 3D
 
