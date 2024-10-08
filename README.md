@@ -1,5 +1,3 @@
-
-
 ExoSky: Explore the Universe in 3D
 
 ExoSky is a research-driven application designed to visualize exoplanets and celestial data using the Gaia dataset. It provides a dynamic 3D star map and offers a local AI assistant called Aurora, which aids in research and data analysis. This project was developed as part of the NASA Space Apps Challenge 2024 by the Cosmic Orbiters team.
